@@ -387,5 +387,33 @@ flex-direction: column;}
   }
   .cards .card{
     height: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .cards .card img{
+    width: 90px;
+    height: 90px;
+  }
+  .conteiner-footer{
+    flex-direction: column;
+    border: none;
+  }
+  .conteiner-foot{
+    margin-bottom: 20px;
+    text-align: center;
+
+  }
+  .conteiner-foot h4{
+    border: none;
+  }
+  .conteiner-foot p{
+    color: #ccc;
+    border-bottom: 1px solid #f2f2f2;
+    padding-bottom: 20px;
+  }
+  .titulo-final{
+    font-size: 20px;
+    
   }
 }
