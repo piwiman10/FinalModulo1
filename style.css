@@ -417,3 +417,16 @@ flex-direction: column;}
     
   }
 }
+.text .skills{
+ color: #f0f0f0;
+ 
+  text-align: center;
+  
+  justify-content: center;
+}
+.about-section{
+  text-align: center;
+  justify-content: center;
+  background: -webkit-linear-gradient(to right, hsla(345, 59%, 59%, 0.671), hsla(325, 100%, 50%, 0.664)), url(../img/portada.jpg);
+background: linear-gradient(to right, hsla(345, 59%, 59%, 0.671), hsla(325, 100%, 50%, 0.664))
+}
