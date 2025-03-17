@@ -10,9 +10,7 @@
   box-sizing: border-box;
 }
 body {
-  /*
-  background-image: url("img/portada.jpg");*/
-  background-size: cover;
+   background-size: cover;
   background-repeat: no-repeat;
   margin: 0;
   height: 100vh;
@@ -320,12 +318,7 @@ padding-top: 5px;
     color: #ccc;
     
   }
-  .titulo-final{
-    text-align: center;
-    font-size: 24px;
-    margin: 20px 0 0 0;
-   color: #9e9797;
-  }
+  
 @media screen and (max-whidth:900){
 header{
   background-position: center;
