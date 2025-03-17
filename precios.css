@@ -10,9 +10,11 @@
   box-sizing: border-box;
 }
 body {
-  /*
-  background-image: url("img/portada.jpg");*/
-  background-size: cover;
+  background: #f10191;   
+background: -webkit-linear-gradient(to right, hsla(345, 59%, 59%, 0.671), hsla(325, 100%, 50%, 0.664)), url(../img/portada.jpg);
+background: linear-gradient(to right, hsla(345, 59%, 59%, 0.671), hsla(325, 100%, 50%, 0.664)), url(../img/portada.jpg);
+/*aca esto ya lo hice yo*/
+   background-size: cover;
   background-repeat: no-repeat;
   margin: 0;
   height: 100vh;

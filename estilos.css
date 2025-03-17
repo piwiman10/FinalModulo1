@@ -15,9 +15,10 @@
     margin: 0;
     height: 100vh;
     background: #f10191;   
-background: -webkit-linear-gradient(to right, hsla(345, 59%, 59%, 0.671), hsla(325, 100%, 50%, 0.664)), url(../img/portada.jpg);
-background: linear-gradient(to right, hsla(345, 59%, 59%, 0.671), hsla(325, 100%, 50%, 0.664)), url(../img/portada.jpg);
-/*aca esto ya lo hice yo*/
+    background: -webkit-linear-gradient(to right, hsla(345, 59%, 59%, 0.671), hsla(325, 100%, 50%, 0.664)), url(../img/portada.jpg);
+    background: linear-gradient(to right, hsla(345, 59%, 59%, 0.671), hsla(325, 100%, 50%, 0.664)), url(../img/portada.jpg);
+    /*aca esto ya lo hice yo*/
+
   }
   html{
     font-size: 12pt;
